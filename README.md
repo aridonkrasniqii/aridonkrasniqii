@@ -36,7 +36,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a>
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvdAoXv_ukedOGkOQg57lomA8bkqs6V1WKog&s" alt="burpsuite" width="40" height="40"/> 
+    <img src="https://ih1.redbubble.net/image.5550351553.1318/st,extra_large,507x507-pad,600x600,f8f8f8.u9.jpg" alt="burpsuite" width="40" height="40"/> 
   </a>
 </p>
-
